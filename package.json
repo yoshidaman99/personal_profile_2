@@ -6,7 +6,6 @@
     "dev": "next dev",
     "test": "vitest run",
     "test:watch": "vitest",
-    "prebuild": "vitest run",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
